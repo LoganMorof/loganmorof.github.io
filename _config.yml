@@ -25,7 +25,7 @@ navbar-links:
     - Logan's LinkedIn: "https://www.linkedin.com/in/logan-morof/"
     - MSU Data Science: "https://datascience.msu.edu/"
     - Spartan Blockchain: "https://www.spartanblockchain.org/"
-  Author's home: "https://loganmorof.github.io/"
+  # Author's home: "https://loganmorof.github.io/"
 
 ################
 # --- Logo --- #
