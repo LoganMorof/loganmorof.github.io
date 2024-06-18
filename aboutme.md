@@ -7,8 +7,11 @@ subtitle: Learn about me and my experience
 ### EDUCATION
 ## Michigan State University:
 College of Natural Science Bachelor of Science, Computational Data Science 
+
 East Lansing, MI 
+
 September 2022 - May 2025
+
 ## Kalamazoo College:
 College of Businesses, College of Computer Science: Bachelor of Business, Bachelor of Computer Science 
 Kalamazoo, MI 
