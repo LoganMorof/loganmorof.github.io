@@ -20,7 +20,7 @@ author: Logan Morof
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "aboutme.md"
   Resources:
     - Logan's LinkedIn: "https://www.linkedin.com/in/logan-morof/"
     - MSU Data Science: "https://datascience.msu.edu/"
